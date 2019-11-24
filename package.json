@@ -1,0 +1,30 @@
+{
+  "name": "car_dealership",
+  "version": "1.0.0",
+  "description": "Customer can view the dealership's used car inventory, book an appointment to test drive vehicles, and edit/delete their user accounts.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerminaejaz/car_dealership.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerminaejaz/car_dealership/issues"
+  },
+  "homepage": "https://github.com/zerminaejaz/car_dealership#readme",
+  "dependencies": {
+    "watchman": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
