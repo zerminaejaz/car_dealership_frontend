@@ -32,10 +32,7 @@ npm install && npm start
 
 # Screenshots
 
-## Login / Sign Up
-
-![Login / Sign Up](./public/pull_over_login.gif)
-
+## To be added...
 
 
 ## Contributing
