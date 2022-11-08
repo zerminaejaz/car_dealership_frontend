@@ -25,6 +25,6 @@
     "watchman": "^1.0.0"
   },
   "devDependencies": {
-    "webpack": "^1.14.0"
+    "webpack": "^5.74.0"
   }
 }
